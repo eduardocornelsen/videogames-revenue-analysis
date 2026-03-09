@@ -1,3 +1,20 @@
+# Support files
+criterios.txt
+dash2-backup.ipynb
+feature_eng.ipynb
+games_notebook.pdf
+mastertoc.ipynb
+noteebook.html
+roteiro.txt
+test2.html
+update_toc.py
+support/
+prompts/
+script_test.py
+data/TorusCover-5.jpeg
+backups/
+html/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

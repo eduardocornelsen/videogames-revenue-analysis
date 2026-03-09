@@ -14,6 +14,8 @@ script_test.py
 data/TorusCover-5.jpeg
 backups/
 html/
+*.pdf
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -1,4 +1,7 @@
-# 🎮 Análise Preditiva de Vendas de Videogames
+![Optimizing Videogame Sales Strategy](images/Optimizing-Videogame-Sales-Strategy.png)
+
+# 🎮 Otimizando a Estratégia de Vendas de Videogames para a loja Ice
+
 Análise estratégica de dados históricos (1980-2016) para identificar drivers de sucesso e otimizar o planejamento de campanhas para 2017 na loja online "Ice".
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
